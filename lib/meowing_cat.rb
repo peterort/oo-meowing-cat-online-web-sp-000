@@ -6,3 +6,10 @@ class Cat
     puts "meow!"
   end
 end
+
+
+gandalf = Cat.new
+
+gandalf.name = "Gandalf The Grey"
+
+puts gandalf.name
