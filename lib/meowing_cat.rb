@@ -7,10 +7,3 @@ class Cat
   end
 end
 
-
-gandalf = Cat.new
-
-gandalf.name = "Gandalf The Grey"
-
-puts gandalf.name
-gandalf.meow
